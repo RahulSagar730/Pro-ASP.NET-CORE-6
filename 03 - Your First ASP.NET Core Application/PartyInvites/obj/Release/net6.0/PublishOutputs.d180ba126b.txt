@@ -1,0 +1,7 @@
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\PartyInvites.exe
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\PartyInvites.dll
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\PartyInvites.deps.json
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\PartyInvites.runtimeconfig.json
+D:\Udemy .NET Projects\pro-asp.net-core-6\03 - Your First ASP.NET Core Application\PartyInvites\obj\Release\net6.0\PubTmp\Out\PartyInvites.pdb
